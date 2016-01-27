@@ -1,0 +1,17 @@
+lint1:
+  description: Commit message fits in 50 symbols
+
+lint2:
+  description: There is exactly one commit in the PR
+
+lint3:
+  description: Body fits in 72 symbols per line
+
+lint4:
+  description: Commit message matches the pattern
+
+lint5:
+  description: Type must be valid
+
+lint6:
+  description: Scope fits in 16 symbols

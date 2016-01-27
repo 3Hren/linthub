@@ -1,0 +1,47 @@
+check1:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: false
+  lint: lint1
+  review: review1
+
+check2:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: true
+  lint: lint2
+  review: review1
+
+check3:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: true
+  lint: lint3
+  review: review1
+
+check4:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: true
+  lint: lint4
+  review: review1
+
+check5:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: false
+  lint: lint5
+  review: review1
+
+check6:
+  github_user: 3Hren
+  repo: cocaine-core
+  sha: 563386bc878c3ec1d4ffcbac9f3ca7c15afc4cae
+  passed: true
+  lint: lint6
+  review: review1
